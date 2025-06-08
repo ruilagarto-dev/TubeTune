@@ -1,5 +1,3 @@
-chmod +x Makefile
-
 # TubeTune
 TubeTune é uma aplicação simples para transferir áudio de vídeos ou playlists do YouTube no formato MP3. A interface gráfica é feita em Tkinter, e o processo de download é gerido pela biblioteca yt-dlp.
 
