@@ -28,9 +28,21 @@ TubeTune é uma aplicação simples para transferir aúdio de vídeos ou playlis
 - python 3 instalado
 - FFmpeg instalado no sistema
 
-### Passos para instalar e rodar
+### Passos para instalar e executar
 
-'''
-git clone
+Clonar o repositorio:
 
-'''
+```bash
+git clone <>
+cd <>
+```
+
+Instalar as dependências e criar ambiente virtual:
+```bash
+make install
+```
+
+Executar:
+```bash
+make run
+```
