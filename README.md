@@ -46,3 +46,15 @@ Executar:
 ```bash
 make run
 ```
+
+
+## Uso
+
+
+1. Insira o link do vídeo ou da playlist do YouTube no campo **"Insira o link do YouTube"**.
+
+2. Selecione a pasta destino onde os arquivos MP3 serão salvos.
+
+3. Clique em **"Baixar Música"** para baixar o vídeo único ou em **"Baixar Playlist"** para baixar todos os vídeos da playlist.
+
+4. Aguarde a conclusão. Mensagens informativas aparecerão durante o processo.
