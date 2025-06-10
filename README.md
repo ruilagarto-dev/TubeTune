@@ -1,8 +1,16 @@
 # TubeTune
+<P align = "Center">
+    <img src= "docs/Tubetune.png" alt= "logotipo" width = "200">
+</p>
+
+
 TubeTune é uma aplicação simples para transferir áudio de vídeos ou playlists do YouTube no formato MP3. A interface gráfica é feita em Tkinter, e o processo de download é gerido pela biblioteca yt-dlp.
 
 ## Captura de Tela
-![Tela principal do TUbeTune](docs/tubetune_tela_principal.png)
+<P align = "Center">
+    <img src= "docs/tubetune_tela_principal.png" alt= "docs/tubetune_tela_principal.png" width = "400">
+</p>
+
 
 
 ## Funcionalidade
