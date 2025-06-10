@@ -4,7 +4,7 @@
 </p>
 
 
-TubeTune é uma aplicação simples para transferir áudio de vídeos ou playlists do YouTube no formato MP3. A interface gráfica é feita em Tkinter, e o processo de download é gerido pela biblioteca yt-dlp.
+TubeTune é uma aplicação simples para transferir áudio de vídeos ou playlists do YouTube em formato MP3. A interface gráfica é feita em Tkinter, e o processo de download é gerido pela biblioteca yt-dlp.
 
 ## Captura de Tela
 <P align = "Center">
@@ -16,7 +16,7 @@ TubeTune é uma aplicação simples para transferir áudio de vídeos ou playlis
 ## Funcionalidade
 - Transferir áudio de vídeos individuais do YouTube.
 - Transferir áudio de playlists completas.
-- Escolha da pasta de destino para salvar os arquivos de áudio.
+- Escolha da pasta de destino para guardar os ficheiros de áudio.
 - Validação básica de URLs do YouTube.
 - Interface gráfica simples e intuitiva.
 - Download em segundo plano utilizando threads para evitar travamentos.
@@ -32,7 +32,7 @@ TubeTune é uma aplicação simples para transferir áudio de vídeos ou playlis
 
 ## Instalar
 
-### Pré-requesitos
+### Pré-requisitos
 - python 3 instalado
 - FFmpeg instalado no sistema
 
@@ -56,9 +56,9 @@ make run
 
 ## Uso
 1. Insira o link do vídeo ou da playlist do YouTube no campo **"Insira o link do YouTube"**.
-2. Selecione a pasta de destino onde os arquivos MP3 serão salvos.
-3. Clique em **"Baixar Música"** para baixar um vídeo único ou em **"Baixar Playlist"** para baixar todos os vídeos da playlist.
-4. Aguarde a conclusão. Mensagens informativas aparecerão durante o processo.
+2. Selecione a pasta de destino onde os ficheiros MP3 serão guardados.
+3. Clique em **"Descarregar Música"** para descarregar um vídeo único ou em **"Descarregar Playlist"** para descarregar todos os vídeos da playlist.
+4. Aguarde a conclusão. Mensagens informativas serão exibidas durante o processo.
 
 
 ## Estrutura do Projeto
