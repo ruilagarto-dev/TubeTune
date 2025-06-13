@@ -6,9 +6,9 @@
 
 TubeTune é uma aplicação simples para transferir áudio de vídeos ou playlists do YouTube em formato MP3. A interface gráfica é feita em Tkinter, e o processo de download é gerido pela biblioteca yt-dlp.
 
-´´´bash
+```bash
 ⚠️ **Atenção:** Esta aplicação é **suportada apenas no Linux Ubuntu**. Não foi validade noutros sistemas operativas.
-´´´
+```
 
 ## Captura de Tela
 <P align = "Center">
