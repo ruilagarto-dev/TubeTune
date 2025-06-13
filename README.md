@@ -8,7 +8,7 @@ TubeTune é uma aplicação simples para transferir áudio de vídeos ou playlis
 
 
 ⚠️ **Atenção:**
-- Esta aplicação é **suportada apenas no Linux Ubuntu**. Não foi validada noutros sistemas operativas.
+- Esta aplicação é **suportada apenas no Linux Ubuntu**. Não foi validada noutros sistemas operativas ou outras distribuições.
 
 
 ## Captura de Tela
